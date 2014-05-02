@@ -5,6 +5,12 @@ import java.lang.reflect.Method;
 import android.os.IBinder;
 
 class DroidLED {
+	// This class is necessary to turn the LED both on and off on certain
+	// Motorola phones. While some phones work with the more standard
+	// setFlashMode, this is not universal on all phones. One specific phone
+	// that works only based on this class is the Motorola OG Droid. This class
+	// is adapted from Siddhpura Amit's answer on
+	// stackoverflow.com/questions/5503480/use-camera-flashlight-in-android
 
 	private Object svc = null;
 	private Method getFlashlightEnabled = null;

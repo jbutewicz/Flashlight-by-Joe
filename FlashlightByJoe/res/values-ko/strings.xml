@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">조하여 손전등</string>
+    <string name="flashlight_widget_imageview_content_description">켜거나 끄십시오.</string>
+    <string name="text_view_info">어떤 광고가 없습니다.\n아니 도난당한 데이터가 없습니다.\n@jbutewicz\ngithub.com/jbutewicz</string>
+
+</resources>

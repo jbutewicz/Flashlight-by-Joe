@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Flitslig deur Joe</string>
+    <string name="flashlight_widget_imageview_content_description">Toggle flitslig op of af.</string>
+    <string name="text_view_info">Geen advertensies.\nGeen gesteel data.\n@jbutewicz\ngithub.com/jbutewicz</string>
+
+</resources>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">ಜೋ ಮಿಂಚುಬೆಳಕು</string>
+    <string name="flashlight_widget_imageview_content_description">ಆನ್ ಮಾಡಿ ಅಥವಾ ಆಫ್.</string>
+    <string name="text_view_info">ಯಾವುದೇ ಜಾಹೀರಾತುಗಳು.\n ಯಾವುದೇ ಕದ್ದ ಮಾಹಿತಿಗಳನ್ನು.\n@jbutewicz\ngithub.com/jbutewicz</string>
+
+</resources>

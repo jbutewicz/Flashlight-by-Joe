@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">જૉ દ્વારા વીજળીની હાથબત્તી</string>
+    <string name="flashlight_widget_imageview_content_description">ચાલુ કે બંધ કરો.</string>
+    <string name="text_view_info">કોઈ જાહેરખબરો.\nકોઈ ચોરી માહિતી.\n@jbutewicz\ngithub.com/jbutewicz</string>
+
+</resources>

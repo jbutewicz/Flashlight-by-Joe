@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Flashlight door Joe</string>
+    <string name="flashlight_widget_imageview_content_description">Aan-of uitschakelen.</string>
+    <string name="text_view_info">Geen reclame.\nGeen gestolen gegevens.\n@jbutewicz\ngithub.com/jbutewicz</string>
+
+</resources>

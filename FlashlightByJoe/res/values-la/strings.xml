@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Joe Flashlight</string>
+    <string name="flashlight_widget_imageview_content_description">Convertimini, nec reversi sunt ad eum.</string>
+    <string name="text_view_info">Non advertisements.\nNec surripi notitia.\n@jbutewicz\ngithub.com/jbutewicz</string>
+
+</resources>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Flashlight ჯო</string>
+    <string name="flashlight_widget_imageview_content_description">ჩართეთ ან გამორთეთ.</string>
+    <string name="text_view_info">არარის რეკლამას.\nარარის მოპარული მონაცემები.\n@jbutewicz\ngithub.com/jbutewicz</string>
+
+</resources>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">ஜோ மின்னும்</string>
+    <string name="flashlight_widget_imageview_content_description">இயக்கு அல்லது அணைக்க.</string>
+    <string name="text_view_info">எந்த விளம்பரங்கள்.\nஇல்லை திருடப்பட்ட தரவு.\n@jbutewicz\ngithub.com/jbutewicz</string>
+
+</resources>

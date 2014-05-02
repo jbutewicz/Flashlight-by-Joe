@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">פלאַשליגהט דורך דזשאָו</string>
+    <string name="flashlight_widget_imageview_content_description">קער אויף אָדער דרייַ אַוועק.</string>
+    <string name="text_view_info">ניט קיין אַדווערטייזמאַנץ.\nניט קיין סטאָלען דאַטן.\n@jbutewicz\ngithub.com/jbutewicz</string>
+
+</resources>

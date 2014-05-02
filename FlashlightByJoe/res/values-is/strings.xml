@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Vasaljós af Joe</string>
+    <string name="flashlight_widget_imageview_content_description">Kveikja eða slökkva.</string>
+    <string name="text_view_info">Engar auglýsingar.\nEngin stolið gögnum.\n@jbutewicz\ngithub.com/jbutewicz</string>
+
+</resources>

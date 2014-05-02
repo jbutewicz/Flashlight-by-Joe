@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">जो द्वारा टर्च</string>
+    <string name="flashlight_widget_imageview_content_description">मा चालू या बंद।</string>
+    <string name="text_view_info">कुनै विज्ञापन।\nकुनै चोरी डेटा।\n@jbutewicz\ngithub.com/jbutewicz</string>
+
+</resources>

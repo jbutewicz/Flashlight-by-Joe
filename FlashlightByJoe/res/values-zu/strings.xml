@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Flashlight by Joe</string>
+    <string name="flashlight_widget_imageview_content_description">Vula noma cisha.</string>
+    <string name="text_view_info">Ayikho izikhangiso.\nAyikho idatha ezebiwe.\n@jbutewicz\ngithub.com/jbutewicz</string>
+
+</resources>

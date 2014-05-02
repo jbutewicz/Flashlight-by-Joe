@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Фонарик Джо</string>
+    <string name="flashlight_widget_imageview_content_description">Включите или выключите.</string>
+    <string name="text_view_info">Нет рекламы.\nНет украденные данные.\n@jbutewicz\ngithub.com/jbutewicz</string>
+
+</resources>

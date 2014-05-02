@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Đèn pin Joe</string>
+    <string name="flashlight_widget_imageview_content_description">Bật hoặc tắt.</string>
+    <string name="text_view_info">Không có quảng cáo.\nKhông có dữ liệu bị đánh cắp.\n@jbutewicz\ngithub.com/jbutewicz</string>
+
+</resources>

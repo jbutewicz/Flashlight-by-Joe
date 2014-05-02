@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/layout"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:padding="@dimen/widget_margin" >
+
+    <!-- android:background="@drawable/myshape" -->
+
+    <ImageView
+        android:id="@+id/flashlight_widget_imageview"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_centerInParent="true"
+        android:layout_gravity="center_vertical"
+        android:adjustViewBounds="true"
+        android:contentDescription="@string/flashlight_widget_imageview_content_description"
+        android:minHeight="72dp"
+        android:minWidth="72dp"
+        android:scaleType="fitCenter"
+        android:src="@drawable/light_on" />
+
+</RelativeLayout>

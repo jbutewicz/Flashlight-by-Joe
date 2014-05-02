@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">مصباح يدوي من قبل جو</string>
+    <string name="flashlight_widget_imageview_content_description">تشغيل أو إيقاف.</string>
+    <string name="text_view_info">لا إعلانات.\nلا توجد بيانات المسروقة.\n@jbutewicz\ngithub.com/jbutewicz</string>
+
+</resources>
